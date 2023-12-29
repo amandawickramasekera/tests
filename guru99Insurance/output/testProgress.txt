@@ -1,0 +1,46 @@
+2023-12-29 12:19:47,864 EX     7933ms 2,2    Navigated to         https://demo.guru99.com/insurance/v1/register.php 	 
+2023-12-29 12:19:49,328 EX      438ms 3,2    Clicked              user_title 	 
+2023-12-29 12:19:50,575 EX      243ms 3,3    Clicked              //*[@id="user_title"]/option[3] 	 
+2023-12-29 12:19:51,655 EX       64ms 3,4    Entered text in      user_firstname 	 
+2023-12-29 12:19:52,721 EX       56ms 3,5    Entered text in      user_surname 	 
+2023-12-29 12:19:53,792 EX       61ms 3,6    Entered text in      user_phone 	 
+2023-12-29 12:19:55,069 EX      263ms 3,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 12:19:56,313 EX      243ms 3,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[46] 	 
+2023-12-29 12:19:57,579 EX      264ms 3,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 12:19:58,824 EX      241ms 3,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[5] 	 
+2023-12-29 12:20:00,111 EX      278ms 3,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 12:20:01,363 EX      241ms 3,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[2] 	 
+2023-12-29 12:20:02,610 EX      242ms 3,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[2] 	 
+2023-12-29 12:20:03,890 EX      277ms 3,14   Clicked              user_licenceperiod 	 
+2023-12-29 12:20:05,146 EX      242ms 3,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[2] 	 
+2023-12-29 12:20:06,424 EX      275ms 3,16   Clicked              user_occupation_id 	 
+2023-12-29 12:20:07,683 EX      242ms 3,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[11] 	 
+2023-12-29 12:20:08,761 EX       65ms 3,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 12:20:09,825 EX       59ms 3,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 12:20:10,896 EX       60ms 3,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 12:20:11,971 EX       59ms 3,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 12:20:13,036 EX       63ms 3,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 12:20:14,095 EX       54ms 3,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 12:20:15,154 EX       55ms 3,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 12:20:17,546 EX     1387ms 3,25   Clicked              //*[@id="new_user"]/div[5]/input[2] 	 
+2023-12-29 12:20:18,605 EX       45ms 3,2    Entered text in      email 	 
+2023-12-29 12:20:19,667 EX       56ms 3,3    Entered text in      password 	 
+2023-12-29 12:20:22,910 EX     2237ms 3,4    Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:23,979 EX       64ms 4,2    Entered text in      email 	 
+2023-12-29 12:20:25,048 EX       54ms 4,3    Entered text in      password 	 
+2023-12-29 12:20:26,561 EX      509ms 4,4    Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:27,634 EX       71ms 5,2    Entered text in      email 	 
+2023-12-29 12:20:28,693 EX       56ms 5,3    Entered text in      password 	 
+2023-12-29 12:20:31,068 EX     1360ms 5,4    Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:32,142 EX       71ms 6,2    Entered text in      email 	 
+2023-12-29 12:20:33,203 EX       58ms 6,3    Entered text in      password 	 
+2023-12-29 12:20:35,304 EX     1087ms 6,4    Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:36,375 EX       67ms 9,2    Entered text in      email 	 
+2023-12-29 12:20:37,441 EX       61ms 9,3    Entered text in      password 	 
+2023-12-29 12:20:39,549 EX     1094ms 9,4    Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:40,630 EX       66ms 10,2   Entered text in      email 	 
+2023-12-29 12:20:41,697 EX       59ms 10,3   Entered text in      password 	 
+2023-12-29 12:20:43,690 EX      987ms 10,4   Clicked              //*[@id="login-form"]/div[3]/input 	 
+2023-12-29 12:20:46,451 EX     1759ms 12,2   Entered text in      email 	 
+2023-12-29 12:20:48,462 EX      996ms 12,3   Entered text in      password 	 
+2023-12-29 12:20:54,474 EX     5004ms 12,4   Clicked              //*[@id="login-form"]/div[3]/input 	 

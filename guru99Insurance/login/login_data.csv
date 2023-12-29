@@ -1,0 +1,12 @@
+Test Case ID,Enabled,Description,email,password,errMsg
+login,0,Empty fields,,,
+login,1,Empty email and correct password,,Abc@123,
+login,1,Existing email and empty password,abcxyz@gmail.com,,
+login,1,Non existing email and empty password ,creativelogodesigner@gmail.com,,
+login,1,Non existing email and password,creativelogodesigner@gmail.com,euyuyeuy,
+login,0,Existing email but the corresponding password in capital,abcxyz@gmail.com,ABC@123,
+login,0,Existing email and corresponding password both in capital,ABCXYZ@GMAIL.COM,ABC@123,
+login,1,Existing email in invalid format and correct password,abcxyz.gmail.com,Abc@123,
+login,1,Existing email and incorrect password,abcxyz@gmail.com,euyuyeuy,
+login,0,Existing email with trailing white space and correct password,abcxyz@gmail.com,Abc@123,
+login,1,Login,abcxyz@gmail.com,Abc@123,

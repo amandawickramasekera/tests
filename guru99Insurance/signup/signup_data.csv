@@ -1,0 +1,3 @@
+Test Case ID,Enabled,Description,firstname,surname,phone,street,city,country,postcode,email,password,confirmpassword,errMsg
+signup,0,Empty fields,,,,,,,,,,,
+signup,1,Signup,Abc,Xyz,771234567,school st,Colombo,Sri Lanka,700,abcxyz@gmail.com,Abc@123,Abc@123,
